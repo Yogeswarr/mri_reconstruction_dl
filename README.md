@@ -10,3 +10,5 @@ Conclusion: The generative model has demonstrated its capacity to acquire knowle
 ### RESULTS
 ![image](https://github.com/user-attachments/assets/68ecb123-c316-459b-abc2-3c0bf5884e6e)
 Figure 2: Ground truth, Zero-filled image and model predicted image along with error map for the comparison of model with two different under sampling mask Gaussian and Cartesian with 20% sampling rate. Corresponding SSIM and pSNR are mentioned.
+### REPORT
+https://docs.google.com/document/d/1UBEjwOkW8aK75dgP3dF9hHSqtrP2eBSv7gXqsL3mVCA/edit?usp=drivesdk
